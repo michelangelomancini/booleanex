@@ -1,0 +1,60 @@
+body{ margin: auto;
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+.sfondotrasp{
+    background-color: rgb(44, 44, 44); opacity: 0.8;
+    border-radius: 15px;
+    padding: 70px;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+header>img{
+    width: 200px;
+    margin-left: 40%;
+    margin-top: 7%;
+}
+nav>h1{
+    text-align: center;
+    color: lawngreen;
+    opacity: 1;
+    font-style: inherit;  
+    font-size: xx-large;
+}
+.barra{
+    background-color: lawngreen;
+    opacity: 1;
+    text-align: center;
+    padding: 5px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+h2{
+    color: white;
+    font-style: inherit;
+}
+div>input, div>h2 {
+    display: inline-block;
+}
+span{
+    color: white;
+    display: block;
+}
+
+hr{
+    height: 25px;
+    border-radius: 10px;        
+}
+#primacarica{
+    background-color: coral;
+    margin-right: 55%;
+}
+#secondacarica{
+    background-color: green;
+    margin-right: 20%;
+}
+#terzacarica{
+    background-color: red;
+    margin-right: 80%;
+}
